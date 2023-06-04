@@ -1,0 +1,98 @@
+Astronomer
+Archaeologist
+Detective
+Illustrator
+Chef
+Photographer
+Journalist
+Pilot
+Magician
+Engineer
+Fashion designer
+Lawyer
+Musician
+Actor
+Athlete
+Teacher
+Scientist
+Writer
+Doctor
+Firefighter
+Police officer
+Veterinarian
+Paleontologist
+Librarian
+Composer
+Economist
+Psychologist
+Graphic designer
+Botanist
+Marine biologist
+Historian
+Geologist
+Astronautical engineer
+Urban planner
+Biomedical engineer
+Sports coach
+Illustrator
+Industrial designer
+Fashion stylist
+Linguist
+Financial analyst
+Art director
+Ethical hacker
+Geneticist
+Environmentalist
+Neurosurgeon
+Orc
+Elf
+Fairy
+Troll
+Gnome
+Mermaid
+Centaur
+Goblin
+Dwarf
+Nymph
+Siren
+Spacecat
+Lion
+Elephant
+Tiger
+Giraffe
+Monkey
+Dolphin
+Penguin
+Koala
+Kangaroo
+Zebra
+Dog
+Cat
+Horse
+Cow
+Pig
+Sheep
+Rabbit
+Squirrel
+Bear
+Fox
+Owl
+Eagle
+Crocodile
+Gorilla
+Cheetah
+Octopus
+Orca
+Polar bear
+Raccoon
+Hedgehog
+Peacock
+Chimpanzee
+Platypus
+Seahorse
+Panther
+Ostrich
+Parrot
+Walrus
+Sloth
+Jellyfish
